@@ -1,12 +1,12 @@
 # Spring '83
 
-Welcome! This is a draft protocol that I believe might open up some interesting new possibilities on the internet. If you are just discovering it, I recommend reading [this narrative description](https://www.robinsloan.com/lab/specifying-spring-83/). Don't miss my notes on [a summer spent operating the protocol with other people](https://www.robinsloan.com/lab/specifying-spring-83/#summer), either.
+Welcome! This is a draft protocol intended to suggest new ways of relating online. If you are just discovering it, I recommend reading [this narrative description](https://www.robinsloan.com/lab/specifying-spring-83/). Don't miss my notes on [a summer spent operating the protocol with other people](https://www.robinsloan.com/lab/specifying-spring-83/#summer), either.
 
 This is speculative software intended to invite consideration and imagination; it doesn't have any "users", only co-investigators.
 
-This project has been quiet for a while, and will remain so for a while longer -- but I'm thinking hard about ways to refine and remix these ideas, and I'll return with some new offerings sometime in 2023.
+This spec is now a historical artifact, but/and I hope it might prompt you to think about new ways of relating online.
 
-Current draft:
+Most recent draft:
 
 * [Protocol specification](draft-20220629.md)
 
